@@ -14,7 +14,6 @@ Etherscan (https://etherscan.io/) provides a web service to explore Ethereum tra
 |  4  | 20 | Required | 
 |  5  | 30 | Required | 
 |  6  | 20 | Required | 
-|  7  | 10 | Bonus | 
 
 Exercise 1. Manually explore three transactions
 ---
@@ -184,10 +183,6 @@ Exercise 6. Automatically explore transactions across two blocks
 
 In this exercise, you are required to report the average fees of 100 transactions, which are the first 50 transactions in block `15479087` and the first 50 transactions in block `15479088`. You can modify the given code.
 
-Exercise 7 (Additional). Automatically explore contract-calling transactions in one block
----
-
-In this exercise, you are required to report the number of transactions in block `15479087` that call the method `Approve`. You can modify the given code.
 
 Deliverable
 ---
